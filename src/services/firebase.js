@@ -1,6 +1,6 @@
 import firebase from 'firebase';
 import 'firebase/firestore';
-
+/* set variables in.env*/
 var config = {
   apiKey: process.env.GATSBY_apiKey,
   authDomain: process.env.GATSBY_authDomain,

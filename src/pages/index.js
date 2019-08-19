@@ -8,12 +8,7 @@ const IndexPage = () => (
   <div>
     <Heading2>A next-generation polling application</Heading2>
     <p>
-      Built from the ground up - Ut pariatur velit eu fugiat ut. Veniam commodo
-      non esse proident ut anim irure voluptate commodo aliqua tempor Lorem
-      excepteur cupidatat. Nulla commodo ex laboris eu sit nisi exercitation
-      dolore labore qui elit non Lorem minim. Voluptate pariatur anim esse irure
-      ipsum ut pariatur. Mollit occaecat velit occaecat sint pariatur tempor.
-      Consectetur culpa tempor dolore amet officia dolore nulla nisi sunt ea.
+      An app that lets your created your own poll. 
     </p>
     <Link to="/new">
       <Button>New Poll</Button>
